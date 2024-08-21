@@ -3,7 +3,7 @@
 
 
 - 📚 Atualmente no 1° semestre da faculdade
-- 😜 Aprendendo python e html
+- 😜 Aprendendo Python e HTML
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFerreira7351&show_icons=true&theme=chartreuse-dark"/>
