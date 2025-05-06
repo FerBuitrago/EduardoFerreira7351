@@ -20,3 +20,4 @@
   <img alaing=center alt="aigis" src="https://static.myfigurecollection.net/upload/pictures/2021/04/07/2682667.gif" />
 </div>
 
+![FerBuitrago's Stats](https://github-readme-stats.vercel.app/api?username=FerBuitrago&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
