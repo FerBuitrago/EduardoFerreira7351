@@ -2,8 +2,8 @@
 
 
 
-- 📚 Atualmente no 1° semestre da faculdade
-- 😜 Aprendendo Python e HTML
+-  Atualmente no 1° semestre da faculdade
+-  Aprendendo Python e HTML
 
 
 
